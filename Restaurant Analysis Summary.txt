@@ -1,0 +1,53 @@
+Project Summary :
+
+This Tableau dashboard analyzes restaurant performance data across multiple cities to uncover insights related to customer ratings, pricing segmentation, franchise expansion, and customer engagement.
+
+As part of my transition from Quality Assurance Engineering to Data Analytics, this project demonstrates my ability to transform raw data into actionable business insights through data visualization and storytelling.
+
+Business Objectives :
+
+Identify top-performing restaurants based on ratings and votes
+
+2. Analyze price range distribution across cities
+
+3. Determine high-density restaurant hubs
+
+4. Evaluate franchise expansion footprint
+
+5. Understand rating distribution patterns
+
+Key Insights :
+
+7,432 restaurants analyzed across multiple cities
+
+2. Average rating of 2.66 indicates potential service quality gap
+
+3. Barbeque Nation operates in 22 cities — strongest franchise presence
+
+4. New Delhi is the highest restaurant density hub
+
+5. Majority of restaurants fall under the "Cheap" category
+
+6. Mid-tier ratings dominate, suggesting competitive but saturated market
+
+Tools & Skills Used :
+
+Tableau (Dashboard Design & Visualization)
+
+2. Data Cleaning & Preparation
+
+3. KPI Design
+
+4. Exploratory Data Analysis
+
+5. Business Insight Generation
+
+Analytical Approach :
+
+Aggregated ratings to identify top performers
+
+2. Compared vote counts to measure customer engagement
+
+3. Segmented restaurants by pricing tiers
+
+4. Created dynamic Top-N filter for interactive exploration
